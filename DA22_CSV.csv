@@ -1,0 +1,501 @@
+ID,Name,Age,Profession,salary,Marriage_proposal_count
+1,olivia,23.0,Teacher,184518,0
+2,sophia   ,20.0,      Boxer,119572,2
+3,jake,38.0,Scientist,174897,1
+4,Rocky,56.0,Chef,117920,2
+4,Rocky,56.0,Chef,117920,1
+4,Rocky,56.0,Chef,117920,3
+4,Rocky,56.0,Chef,117920,11
+4,Rocky,56.0,Chef,117920,2
+4,Rocky,56.0,Chef,117920,2
+4,Rocky,56.0,Chef,117920,3
+11,Rocky,,Doctor,75543,5
+12,Jake,,Artist,174780,5
+13,Olivia,22.0,Comedian,102063,3
+14,John,46.0,Artist,43078,12
+15,Jake,40.0,Chef,171553,3
+16,Sherlock,30.0,      Boxer,57774,0
+17,Jake,46.0,Artist,135907,0
+18,Jake,53.0,Software Engineer,127117,1
+19,Rocky,25.0,Comedian,181312,5
+20,Sherlock,40.0,Detective,118998,1
+21,Sherlock,40.0,Detective,118998,13
+22,John,41.0,Scientist,175925,0
+23,John,41.0,Scientist,175925,4
+24,Sherlock,42.0,      Boxer,92995,2
+25,Olivia,60.0,Detective,182185,0
+26,Olivia,53.0,Detective,194971,3
+27,Alice,48.0,Pilot,99949,4
+28,Sherlock,55.0,Scientist,107130,8
+29,Alice,21.0,Chef,84792,3
+30,Alice,21.0,Chef,84792,3
+31,Alice,30.0,Teacher,77599,1
+32,Olivia,30.0,Doctor,187932,1
+33,Mr. Bean,27.0,Artist,102476,0
+34,Olivia,45.0,Comedian,130452,4
+35,Sherlock,46.0,Chef,84917,7
+36,Mr. Bean,44.0,Comedian,116715,3
+37,Rocky,57.0,Teacher,107725,2
+38,Mr. Bean,32.0,Scientist,129299,2
+39,John,27.0,Software Engineer,118379,0
+40,Olivia,60.0,Software Engineer,32286,1
+41,Alice,52.0,Chef,46535,4
+42,Rocky,39.0,Doctor,39660,7
+43,Sherlock,26.0,Chef,118996,5
+44,Sophia,51.0,Teacher,172273,2
+45,Olivia,51.0,Doctor,89479,0
+46,Liam,,Doctor,84583,0
+47,Mr. Bean,,Artist,190559,5
+48,Sherlock,48.0,Pilot,113220,5
+49,Sherlock,38.0,Pilot,57170,10
+50,Liam,59.0,Pilot,37285,21
+51,Liam,42.0,Pilot,105830,4
+52,Jake,53.0,Teacher,141227,0
+53,Jake,27.0,Pilot,118790,4
+54,Sophia,34.0,Detective,53088,0
+55,Sherlock,47.0,Comedian,79272,4
+56,Mr. Bean,30.0,      Boxer,59720,9
+57,Emma,22.0,Doctor,41428,2
+58,Alice,30.0,Chef,49052,1
+59,Mr. Bean,41.0,Pilot,46462,4
+60,John,36.0,Scientist,155941,2
+61,Sherlock,37.0,      Boxer,106436,4
+62,Emma,21.0,Software Engineer,167137,3
+63,Jake,40.0,Chef,40545,5
+64,Alice,60.0,Scientist,87383,3
+65,Mr. Bean,49.0,      Boxer,178208,3
+66,Emma,57.0,Pilot,199317,1
+67,Olivia,33.0,Chef,169723,1
+68,Mr. Bean,27.0,Teacher,115637,1
+69,Sherlock,28.0,Pilot,185564,0
+70,Emma,50.0,      Boxer,166908,14
+71,Jake,40.0,      Boxer,188182,5
+72,Emma,,Pilot,49986,3
+73,Sophia,,Artist,86741,1
+74,Rocky,,Software Engineer,159260,0
+75,Sherlock,,Detective,165463,0
+76,Alice,60.0,Doctor,193629,3
+77,Emma,28.0,Software Engineer,111669,7
+78,Alice,48.0,Doctor,157563,3
+79,Olivia,36.0,Comedian,120343,2
+80,Mr. Bean,53.0,Detective,59387,2
+81,Emma,38.0,Artist,125743,0
+82,Jake,21.0,Artist,99953,2
+83,Sophia,57.0,Software Engineer,170685,2
+84,John,34.0,Teacher,164971,13
+85,Olivia,20.0,Detective,51499,1
+86,Liam,58.0,Detective,172881,4
+87,Alice,34.0,Pilot,174506,1
+88,Jake,31.0,Pilot,113415,1
+89,Sophia,26.0,Artist,61054,3
+90,John,52.0,Comedian,189517,2
+91,Rocky,43.0,Software Engineer,30407,10
+92,Mr. Bean,29.0,Artist,125396,4
+93,Sherlock,44.0,Chef,82944,5
+94,Jake,52.0,Chef,162337,1
+95,John,42.0,Pilot,51875,0
+96,Emma,31.0,Scientist,191091,5
+97,Sherlock,57.0,Teacher,119001,2
+98,Olivia,50.0,Comedian,59062,10
+99,Sherlock,26.0,Pilot,128122,5
+100,Emma,48.0,Chef,87682,26
+101,Olivia,60.0,Teacher,163578,3
+102,Alice,34.0,Scientist,74337,3
+103,John,56.0,      Boxer,182001,5
+104,Olivia,33.0,Pilot,85594,0
+105,Emma,43.0,Teacher,70983,8
+106,Mr. Bean,50.0,Software Engineer,170907,1
+107,Sherlock,50.0,Software Engineer,117896,4
+108,Emma,39.0,      Boxer,88909,0
+109,Rocky,46.0,Scientist,109541,1
+110,Sherlock,42.0,Artist,115753,1
+111,John,44.0,Scientist,165346,0
+112,Olivia,45.0,Scientist,154769,9
+113,Rocky,58.0,Doctor,52533,2
+114,John,51.0,Chef,190384,1
+115,Olivia,53.0,Comedian,42748,0
+116,Alice,47.0,Scientist,81977,1
+117,Mr. Bean,59.0,Software Engineer,117660,3
+118,Olivia,25.0,Scientist,198095,0
+119,Rocky,42.0,Chef,134291,8
+120,Emma,59.0,Artist,182787,0
+121,Mr. Bean,43.0,Chef,34630,2
+122,Emma,56.0,Pilot,61786,1
+123,Mr. Bean,54.0,Artist,122176,3
+124,Alice,22.0,Software Engineer,138661,1
+125,Olivia,39.0,Artist,124923,4
+126,Mr. Bean,42.0,Comedian,52608,8
+127,John,37.0,Scientist,58088,4
+128,Jake,40.0,      Boxer,44665,1
+129,Sherlock,41.0,Chef,35745,4
+130,Sherlock,29.0,      Boxer,39114,3
+131,Mr. Bean,26.0,Artist,145227,4
+132,Emma,59.0,Teacher,152303,1
+133,Rocky,31.0,Doctor,198978,8
+134,John,39.0,      Boxer,114065,4
+135,Emma,60.0,Detective,84536,2
+136,Alice,20.0,Detective,121478,1
+137,Olivia,23.0,Comedian,32354,1
+138,Emma,40.0,Scientist,196516,5
+139,Olivia,54.0,Comedian,81038,3
+140,Sophia,36.0,Comedian,127003,11
+141,John,46.0,Software Engineer,61653,2
+142,Sherlock,28.0,Software Engineer,145270,2
+143,Olivia,53.0,Detective,46027,4
+144,Liam,46.0,      Boxer,134080,0
+145,Emma,54.0,Scientist,139396,1
+146,Liam,33.0,Detective,169802,5
+147,Olivia,38.0,Detective,119091,15
+148,Sherlock,33.0,Software Engineer,127159,4
+149,Sophia,32.0,Artist,33603,5
+150,Sherlock,34.0,Comedian,176943,30
+151,Sherlock,60.0,Scientist,135857,4
+152,Sherlock,56.0,Software Engineer,118536,4
+153,Alice,57.0,Teacher,34825,0
+154,Alice,56.0,      Boxer,31088,11
+155,Alice,25.0,Artist,32961,5
+156,John,48.0,Pilot,51363,0
+157,Sophia,25.0,Chef,114069,1
+158,Sherlock,47.0,Detective,46895,1
+159,Sophia,43.0,Scientist,147010,0
+160,Emma,60.0,Doctor,31209,3
+161,Rocky,42.0,Artist,150873,6
+162,Rocky,46.0,Comedian,128569,5
+163,Sophia,55.0,Chef,156286,2
+164,Sherlock,43.0,      Boxer,181689,2
+165,John,48.0,Teacher,41731,0
+166,Emma,50.0,Doctor,88010,4
+167,Emma,24.0,Software Engineer,33049,3
+168,Mr. Bean,44.0,Comedian,198847,14
+169,Emma,50.0,Detective,182970,1
+170,John,52.0,Detective,168704,4
+171,Mr. Bean,30.0,Teacher,139649,4
+172,Rocky,39.0,      Boxer,82214,2
+173,Mr. Bean,30.0,Comedian,156748,4
+174,John,49.0,Software Engineer,76575,3
+175,Sophia,37.0,      Boxer,138005,13
+176,Jake,44.0,Software Engineer,56273,0
+177,John,35.0,Teacher,48331,5
+178,Emma,55.0,Comedian,120344,2
+179,Alice,38.0,Chef,196494,4
+180,Emma,58.0,Scientist,44918,0
+181,Sophia,32.0,Detective,134405,4
+182,Sherlock,33.0,Software Engineer,79241,15
+183,Olivia,25.0,Teacher,175547,0
+184,Mr. Bean,60.0,Pilot,130981,1
+185,Olivia,33.0,Pilot,183849,2
+186,Liam,60.0,Chef,44743,1
+187,Mr. Bean,25.0,Comedian,98444,5
+188,Liam,34.0,Software Engineer,128979,3
+189,Liam,31.0,Artist,151908,12
+190,Olivia,28.0,Pilot,116632,2
+191,Sophia,34.0,Artist,112912,3
+192,Olivia,44.0,Comedian,181763,1
+193,Sherlock,34.0,Chef,47375,2
+194,Sophia,60.0,Software Engineer,69353,2
+195,Liam,31.0,Software Engineer,158140,5
+196,Rocky,46.0,Detective,112641,5
+197,Olivia,48.0,      Boxer,157813,1
+198,Liam,59.0,Doctor,31945,5
+199,Sherlock,37.0,Doctor,103758,2
+200,John,30.0,Comedian,142570,38
+201,Alice,30.0,      Boxer,78294,2
+202,Jake,28.0,Detective,75500,5
+203,Rocky,58.0,Scientist,157601,10
+204,Emma,38.0,Software Engineer,194615,2
+205,Liam,42.0,Detective,91697,2
+206,Alice,43.0,Pilot,82498,3
+207,Jake,56.0,      Boxer,118456,5
+208,Jake,34.0,Software Engineer,62740,3
+209,Sophia,47.0,Teacher,75174,2
+210,Mr. Bean,20.0,Artist,124231,6
+211,Alice,53.0,Pilot,94180,1
+212,Jake,52.0,Software Engineer,186421,5
+213,Emma,58.0,Chef,156618,2
+214,Sherlock,21.0,Chef,30164,2
+215,Liam,22.0,Artist,197685,2
+216,Emma,34.0,      Boxer,166356,3
+217,John,56.0,      Boxer,129782,14
+218,Jake,37.0,Pilot,89308,3
+219,Alice,47.0,Chef,56343,1
+220,Jake,49.0,Teacher,140257,2
+221,Jake,38.0,Pilot,117744,5
+222,Alice,55.0,Scientist,183269,3
+223,Alice,31.0,Pilot,178570,3
+224,Mr. Bean,42.0,Comedian,174491,15
+225,John,21.0,Teacher,131446,1
+226,Alice,37.0,Comedian,73190,3
+227,Olivia,59.0,Detective,110055,1
+228,Emma,60.0,Chef,191492,1
+229,Mr. Bean,30.0,Comedian,123737,1
+230,John,35.0,Teacher,31162,1
+231,Jake,35.0,      Boxer,62634,6
+232,Liam,54.0,Scientist,140405,1
+233,Mr. Bean,26.0,Software Engineer,54795,3
+234,Sophia,37.0,Doctor,170910,5
+235,Mr. Bean,25.0,Scientist,179736,1
+236,Jake,39.0,Artist,146054,5
+237,Mr. Bean,46.0,Detective,193168,0
+238,Liam,27.0,Scientist,165393,9
+239,Liam,28.0,Pilot,53002,0
+240,Liam,56.0,Chef,34845,0
+241,Emma,27.0,Comedian,135475,3
+242,Sherlock,25.0,Software Engineer,122044,2
+243,Emma,42.0,Teacher,99751,4
+244,John,37.0,Teacher,91984,4
+245,John,36.0,Teacher,69230,11
+246,Rocky,29.0,      Boxer,91963,0
+247,Liam,32.0,Doctor,193498,0
+248,Olivia,46.0,Teacher,55216,5
+249,Alice,50.0,Artist,146226,1
+250,Emma,38.0,Detective,49492,34
+251,Mr. Bean,54.0,Teacher,166438,3
+252,Liam,54.0,      Boxer,35494,15
+253,Rocky,40.0,Chef,160067,2
+254,John,24.0,Scientist,111518,4
+255,Olivia,42.0,Detective,99866,2
+256,Liam,28.0,Artist,177430,3
+257,Sophia,54.0,Chef,176277,2
+258,John,57.0,Pilot,175945,2
+259,John,47.0,Chef,133320,12
+260,Olivia,47.0,Software Engineer,127366,0
+261,Alice,26.0,Pilot,133759,0
+262,Alice,57.0,Detective,113411,4
+263,Rocky,52.0,Teacher,152176,2
+264,Sherlock,25.0,Pilot,64756,0
+265,Sherlock,40.0,      Boxer,121346,1
+266,Emma,56.0,Chef,170468,11
+267,Olivia,31.0,Teacher,69629,3
+268,John,25.0,      Boxer,162243,2
+269,Jake,38.0,      Boxer,140702,1
+270,Alice,40.0,Artist,107922,4
+271,Mr. Bean,32.0,Artist,172027,2
+272,Olivia,26.0,Doctor,85474,0
+273,Alice,49.0,Software Engineer,51964,6
+274,Emma,23.0,Doctor,143824,2
+275,Jake,43.0,Doctor,73276,1
+276,Olivia,44.0,Comedian,68326,1
+277,Emma,38.0,Pilot,52178,1
+278,John,58.0,Scientist,93076,0
+279,Mr. Bean,20.0,      Boxer,35326,4
+280,Olivia,37.0,Scientist,81921,12
+281,Liam,60.0,Artist,177074,1
+282,Liam,50.0,Chef,187825,2
+283,Jake,55.0,Doctor,100466,0
+284,Jake,50.0,Doctor,113225,0
+285,Jake,46.0,Detective,30971,1
+286,John,34.0,Pilot,39780,2
+287,John,21.0,Software Engineer,177857,14
+288,Jake,48.0,      Boxer,78423,0
+289,Liam,56.0,Teacher,51422,4
+290,John,25.0,Scientist,164965,4
+291,Rocky,58.0,Doctor,166138,5
+292,John,39.0,Software Engineer,186825,0
+293,Sophia,42.0,      Boxer,34990,2
+294,Alice,40.0,Software Engineer,168268,7
+295,Sherlock,27.0,Pilot,162167,3
+296,Rocky,42.0,      Boxer,50388,5
+297,Alice,22.0,Artist,180368,3
+298,Emma,55.0,Scientist,143154,1
+299,Sophia,49.0,Chef,142053,1
+300,Emma,35.0,Detective,179021,32
+301,Liam,31.0,Chef,108961,12
+302,Sherlock,22.0,Scientist,85389,5
+303,Emma,49.0,Teacher,52878,5
+304,Sophia,25.0,Scientist,89963,0
+305,Alice,26.0,Detective,91298,2
+306,Alice,25.0,Pilot,161908,2
+307,Rocky,30.0,Comedian,196351,0
+308,Emma,46.0,Pilot,113792,8
+309,Liam,43.0,Comedian,188512,4
+310,John,57.0,Software Engineer,175585,5
+311,Olivia,48.0,Artist,165538,2
+312,Mr. Bean,39.0,Artist,37864,2
+313,Olivia,47.0,Detective,192616,2
+314,Rocky,42.0,Scientist,124646,4
+315,Emma,46.0,      Boxer,133014,9
+316,Emma,40.0,      Boxer,60428,1
+317,Alice,51.0,Comedian,102420,0
+318,Rocky,59.0,Pilot,82474,1
+319,Mr. Bean,37.0,Scientist,184252,4
+320,Alice,48.0,Comedian,39467,0
+321,Emma,53.0,Chef,78403,0
+322,Olivia,34.0,Scientist,163771,5
+323,John,58.0,Teacher,83298,4
+324,Liam,54.0,Doctor,187432,4
+325,Sophia,25.0,      Boxer,103240,4
+326,Mr. Bean,34.0,Pilot,63797,5
+327,Sherlock,25.0,Scientist,90810,4
+328,Liam,58.0,Detective,153736,3
+329,Alice,41.0,Comedian,73931,14
+330,Sherlock,40.0,Scientist,30905,0
+331,Jake,40.0,Comedian,112754,2
+332,Rocky,20.0,Comedian,179928,0
+333,Mr. Bean,39.0,Teacher,54445,0
+334,Mr. Bean,57.0,Doctor,37985,5
+335,Emma,20.0,Detective,62711,2
+336,Jake,54.0,Chef,124835,14
+337,Sherlock,58.0,      Boxer,113356,4
+338,Emma,39.0,      Boxer,84276,4
+339,Sophia,32.0,Detective,181192,0
+340,Emma,23.0,Detective,52670,4
+341,Emma,55.0,Scientist,116881,0
+342,Jake,27.0,Scientist,150577,0
+343,Emma,35.0,Pilot,174038,14
+344,Mr. Bean,41.0,      Boxer,60849,0
+345,Sherlock,45.0,Scientist,92951,5
+346,Alice,60.0,Comedian,104236,5
+347,Jake,53.0,Chef,45617,5
+348,Olivia,35.0,Doctor,38732,0
+349,Sophia,50.0,Comedian,84575,2
+350,Mr. Bean,58.0,Teacher,34337,37
+351,John,26.0,Scientist,127895,3
+352,Olivia,22.0,Comedian,140531,1
+353,Emma,27.0,Teacher,88679,3
+354,Liam,44.0,Scientist,184412,5
+355,John,48.0,Software Engineer,144379,2
+356,Sherlock,29.0,Comedian,166394,2
+357,Mr. Bean,37.0,Comedian,124626,13
+358,Sherlock,24.0,Doctor,62163,3
+359,Liam,35.0,Pilot,31129,4
+360,Alice,36.0,Teacher,56591,0
+361,Emma,25.0,Artist,113041,1
+362,Sophia,32.0,Chef,125267,0
+363,Liam,28.0,Pilot,135181,5
+364,Alice,25.0,Software Engineer,105197,10
+365,Liam,35.0,      Boxer,45935,3
+366,Sophia,45.0,Chef,130202,4
+367,John,27.0,Chef,62415,0
+368,Sophia,42.0,Doctor,180983,4
+369,John,60.0,Doctor,82458,5
+370,John,27.0,Teacher,181813,4
+371,Alice,49.0,Chef,157351,12
+372,Jake,20.0,Pilot,58824,1
+373,Jake,54.0,Doctor,134314,2
+374,Alice,57.0,Scientist,157356,2
+375,Mr. Bean,37.0,Chef,91814,3
+376,Olivia,50.0,      Boxer,80837,2
+377,Jake,38.0,Detective,192581,3
+378,Jake,21.0,Comedian,132670,6
+379,Jake,44.0,Comedian,61725,1
+380,Rocky,50.0,Software Engineer,77367,3
+381,Sherlock,49.0,Comedian,119581,5
+382,Mr. Bean,29.0,      Boxer,150254,4
+383,Jake,51.0,Doctor,37418,0
+384,John,23.0,      Boxer,30976,3
+385,Emma,28.0,Chef,63580,12
+386,John,36.0,Artist,176383,1
+387,Sophia,30.0,Pilot,167253,1
+388,Mr. Bean,48.0,Doctor,113159,1
+389,Olivia,50.0,Doctor,155081,1
+390,Alice,39.0,      Boxer,119238,4
+391,Mr. Bean,57.0,Detective,56110,0
+392,John,54.0,Doctor,72254,9
+393,John,44.0,Comedian,141316,1
+394,Sophia,46.0,Comedian,120205,3
+395,Liam,49.0,Teacher,163863,0
+396,Olivia,27.0,      Boxer,139444,4
+397,Alice,35.0,Chef,97840,4
+398,Emma,32.0,Artist,100729,2
+399,Rocky,25.0,Scientist,30659,5
+400,Rocky,52.0,Comedian,69267,40
+401,Olivia,50.0,Doctor,194401,2
+402,Mr. Bean,48.0,Comedian,161844,4
+403,Sherlock,32.0,Doctor,179053,5
+404,John,32.0,Software Engineer,68276,2
+405,John,23.0,Chef,169878,0
+406,Sophia,29.0,Artist,67411,8
+407,Sophia,32.0,Doctor,146498,2
+408,Jake,40.0,Teacher,49821,1
+409,Alice,56.0,Scientist,43963,4
+410,John,36.0,Pilot,174798,3
+411,Emma,52.0,Teacher,100916,0
+412,Mr. Bean,57.0,Detective,155420,2
+413,Emma,46.0,Doctor,48634,15
+414,Sherlock,40.0,Scientist,119028,3
+415,Olivia,40.0,Artist,66948,1
+416,Emma,42.0,Software Engineer,143883,0
+417,Alice,33.0,Teacher,94768,4
+418,Rocky,46.0,Scientist,89476,5
+419,Olivia,25.0,Software Engineer,113297,5
+420,Rocky,40.0,Detective,105141,8
+421,Jake,30.0,      Boxer,142175,1
+422,Mr. Bean,41.0,Comedian,184671,5
+423,Mr. Bean,39.0,Chef,97425,4
+424,Sherlock,40.0,Comedian,137230,0
+425,Rocky,41.0,      Boxer,114819,3
+426,Rocky,59.0,Software Engineer,113844,5
+427,Sherlock,43.0,Chef,40623,7
+428,Sophia,26.0,      Boxer,128217,2
+429,John,22.0,Teacher,134423,4
+430,Jake,24.0,Detective,177554,3
+431,Sherlock,40.0,Doctor,41873,5
+432,Olivia,54.0,Software Engineer,170761,1
+433,Sophia,51.0,      Boxer,99660,4
+434,Rocky,25.0,Artist,125085,10
+435,Alice,36.0,Doctor,153823,1
+436,Alice,41.0,Teacher,186127,4
+437,Sherlock,52.0,      Boxer,199529,3
+438,Jake,23.0,Software Engineer,43402,4
+439,Jake,22.0,Teacher,86148,0
+440,Jake,38.0,Software Engineer,198285,3
+441,Olivia,44.0,Software Engineer,84133,15
+442,Alice,28.0,Chef,146315,2
+443,Sherlock,57.0,Chef,82817,2
+444,Mr. Bean,57.0,Doctor,113619,0
+445,Alice,55.0,Pilot,43059,3
+446,Liam,57.0,Comedian,91768,5
+447,Liam,45.0,Software Engineer,106418,4
+448,Mr. Bean,59.0,Doctor,37507,15
+449,Sherlock,45.0,Comedian,136506,2
+450,Rocky,49.0,Detective,131851,31
+451,Emma,31.0,Pilot,94668,3
+452,Emma,25.0,Comedian,107790,4
+453,Rocky,38.0,Scientist,162827,3
+454,Liam,56.0,Chef,89538,1
+455,Mr. Bean,48.0,Pilot,170608,5
+456,Sherlock,28.0,Doctor,63214,5
+457,Sherlock,31.0,Scientist,168837,2
+458,John,20.0,Teacher,162705,1
+459,Sophia,27.0,Comedian,114978,4
+460,Sophia,32.0,Chef,148077,4
+461,Emma,25.0,Teacher,118269,3
+462,Sherlock,31.0,Scientist,95144,13
+463,Sophia,32.0,Detective,31851,3
+464,Alice,56.0,Pilot,70601,2
+465,Jake,54.0,Pilot,128362,3
+466,Sophia,37.0,Detective,160158,2
+467,Rocky,36.0,Scientist,84397,5
+468,John,57.0,Scientist,117248,0
+469,Rocky,34.0,      Boxer,52600,14
+470,Sophia,42.0,Software Engineer,102357,0
+471,Liam,34.0,Scientist,163094,3
+472,Mr. Bean,53.0,Teacher,163658,4
+473,Jake,57.0,Doctor,169548,3
+474,Jake,25.0,Pilot,63282,1
+475,Sophia,30.0,Doctor,198653,1
+476,Sophia,41.0,Pilot,154805,13
+477,Sherlock,20.0,Chef,163029,4
+478,Alice,44.0,Artist,177975,4
+479,Alice,34.0,Detective,158780,2
+480,Liam,26.0,Pilot,80708,3
+481,Sherlock,22.0,Detective,126604,0
+482,Olivia,56.0,Software Engineer,71404,5
+483,Sherlock,31.0,Doctor,183741,13
+484,Olivia,59.0,Artist,124648,2
+485,Sophia,57.0,Software Engineer,158682,5
+486,Mr. Bean,59.0,Pilot,196562,3
+487,Mr. Bean,23.0,Doctor,193209,2
+488,Sherlock,49.0,Pilot,82386,2
+489,Emma,21.0,Software Engineer,92013,2
+490,John,56.0,Scientist,41192,7
+491,John,57.0,Pilot,154180,0
+492,Emma,34.0,Artist,145412,1
+493,John,55.0,Artist,57720,2
+494,Sophia,39.0,Doctor,174500,0
+495,Rocky,27.0,Doctor,46975,0
+496,John,45.0,      Boxer,137929,0
+497,Sherlock,46.0,      Boxer,39870,6
+498,Sherlock,47.0,Detective,165951,5
+499,Olivia,55.0,Comedian,192618,5
+500,Sherlock,59.0,Software Engineer,194886,28
